@@ -16,7 +16,7 @@ public class MyDC extends DC {
 
     @Override
     protected String subSysName() {
-        return "Galaxy-Test-SubSystem😄";
+        return "Test-SubSystem😄";
     }
 
 }
